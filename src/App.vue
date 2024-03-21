@@ -1,25 +1,17 @@
-
 <script>
-export default{
-  data(){
-    return{
-      title: 'Hello world!!!'
-    }
+  export default {
+    
   }
-}
 </script>
 
 <template>
   <div>
-
-    <h1>{{title}}</h1>
-
-
+    <h1>ciao</h1>
   </div>
 </template>
 
-<style scoped>
+
+<style lang="scss" scoped>
 
 </style>
-
 
